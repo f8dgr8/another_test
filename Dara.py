@@ -1,0 +1,2 @@
+Python script
+Cant write
